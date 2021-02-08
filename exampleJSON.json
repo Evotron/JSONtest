@@ -1,0 +1,17 @@
+{
+  "bakery": {
+    "sweets": {
+      "luxury": {
+        "brownies": 25,
+        "cupcakes": 50,
+        "cookies": 500,
+  "deli": {
+    "meats": {
+      "pork": 25,
+      "beef": 30,
+      "chicken": 10,
+      "rabbit": 5,
+    }
+  },
+  "future": false,
+}
